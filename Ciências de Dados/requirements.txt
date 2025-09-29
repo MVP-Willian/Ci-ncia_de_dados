@@ -1,0 +1,5 @@
+matplot
+pandas
+numpy
+jupyter
+requests
